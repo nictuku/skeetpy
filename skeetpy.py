@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """Skeetpy is a Python library for interacting with the AT protocol."""
 
+__version__ = "0.0.1"
+
 import requests
 import json
 import jwt
